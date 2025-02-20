@@ -1,0 +1,5 @@
+console.Writeline("bread");
+console.Writeline("egg");
+console.Writeline("cream");
+console.Writeline("milk");
+console.Writeline("jam");
